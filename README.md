@@ -6,5 +6,6 @@ to so avtorji:
 -prvi
 -drugi
 
-#Navodila
+# Navodila
+
 ugibaj črke.
